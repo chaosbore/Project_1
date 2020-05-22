@@ -5,7 +5,21 @@ div{
 	margin:30px;
 	padding:20px;
 	font-family: Arial, sans-serif;
-	font-size: 20px;
-	font-weight: bold;
 
-  }
+    }
+	#top{
+	     font-size:30px;
+	     }
+
+	#middle{
+		font-size:20px;
+		}
+
+	#bottom {
+		font-size:10px;
+		}
+	.name {
+	      font-weight:bold;
+	      } 
+
+  
